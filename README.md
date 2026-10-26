@@ -1,2 +1,2 @@
 # test google sites
-ink
+ink : https://teachablemachine.withgoogle.com/models/-hEi80Und/
